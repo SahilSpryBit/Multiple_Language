@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multiple Language</string>
+    <string name="txt1">Hello World!</string>
+    <string name="txt12">LOLLLLLL</string>
+    <string name="txt2">How are you?</string>
+    <string name="txt22">Where are you?</string>
+    <string name="txt3">All Good?</string>
+    <string name="txt32">Happyy!!</string>
+    <string name="txt4">Nice!!</string>
+    <string name="txt42">Hate!!</string>
+</resources>

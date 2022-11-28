@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multiple Language</string>
+    <string name="txt4">अच्छा!!</string>
+    <string name="txt42">नफ़रत करना!!</string>
+    <string name="txt3">सब अच्छा?</string>
+    <string name="txt32">प्रसन्न!!</string>
+    <string name="txt2">क्या हाल है?</string>
+    <string name="txt22">आप कहाँ हैं?</string>
+    <string name="txt1">हैलो वर्ल्ड!</string>
+    <string name="txt12">LOLLLL</string>
+</resources>
